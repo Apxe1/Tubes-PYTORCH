@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import folium
+import matplotlib.pyplot as plt
 import datetime
 from PIL import Image
 import numpy as np
